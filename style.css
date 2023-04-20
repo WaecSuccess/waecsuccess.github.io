@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(201, 51, 51);
+}
+h1{
+    color:white
+}
+.des{
+    color:aliceblue;
+    font-size:x-small;
+}
+
+.container{
+    display: flex;
+}
+h1,h2,h3,h4{
+    text-align: center;
+}
+.box{
+    
+    background-color: white;
+}
